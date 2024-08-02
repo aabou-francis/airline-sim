@@ -1,6 +1,10 @@
 # Airline Simulator with Booking UI
 
-Welcome to the Airline Simulator project! This application is a flight booking simulator that allows users to search for flights between different airports. The project is built using C++ and follows object-oriented design principles. It features a simple, user-friendly interface that makes the booking process straightforward and intuitive.
+This application is a flight booking simulator that allows users to search for flights between different airports. The project is built using C++ and follows object-oriented design principles. It features a simple, user-friendly interface that makes the booking process straightforward and intuitive. 
+
+It was completed for the final project in CSE 3150 in Spring 2024.
+
+![Screenshot (185)](https://github.com/user-attachments/assets/3d80ab18-79e1-480e-9be4-aa045fe113d9)
 
 ## Features
 
