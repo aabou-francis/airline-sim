@@ -68,6 +68,6 @@ Portions of the initial codebase for this project were provided by Yufeng Wu. Th
 ## My Contributions
 
 While the initial codebase was provided, I have:
-- Developed the core flight search algorithm.
+- Implemented the core flight search algorithm.
 - Made the UI features functional.
-- Conducted testing and optimization to ensure the application runs efficiently.
+- Conducted testing ensure the application runs efficiently.
