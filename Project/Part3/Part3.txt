@@ -1,0 +1,11 @@
+To build the test code:
+
+g++ ECConsoleUITextLabel.cpp ECTextViewImp.cpp ECConsoleUIView.cpp  ECConsoleUITest.cpp ECConsoleUIListBox.cpp ECConsoleUITextField.cpp ECObserver.h -o test
+
+To run it:
+
+./test
+
+List Box: I have implemented the list box. It works as it is supposed to. When using CTRL-A to go through active UI items, you can reach these list boxes and you can use the up and down arrows to key through each item. As you go up and down, the item you are on is highlighted red.
+
+Text Field: I have implemented the text field. It works as it is supposed to. When using CTRL-A to go through active UI items, you can reach the text field. When enter is pressed it will activate the box and the user can type. As the user types, the cursor moves logically. Hitting CTRL-C will end editing and keep the text as left by user.

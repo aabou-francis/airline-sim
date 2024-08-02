@@ -1,0 +1,13 @@
+To build the executable:
+
+g++ ECConsoleUITextLabel.cpp ECTextViewImp.cpp ECConsoleUIView.cpp  ECConsole.cpp ECConsoleUIListBox.cpp ECConsoleUITextField.cpp ECObserver.h ECAirlineSimulator.cpp ECAirlineOperation.cpp ECAirlineTicketing.cpp ECAirlineFinancial.cpp ECFlight.cpp ECFlightItinerary.cpp ECAirport.cpp ECConsoleUIButton.cpp -o test
+
+To run it:
+
+./test
+
+This runs very well, all UI work as they are supposed to. First the input file that is provided (I named it airports.txt) is read and populates the list boxes. You are able to choose an airport to depart from and an airport to arrive at from the two separate list boxes. Then when you use CTRL-A to get to the button that says "Search" you hit enter to run the search algorithm. The results from that will generate in the list box labeled "Itineraries" and you can then scroll through those results that tell you when the flight departs, arrives, and the price. If there are no itineraries it will dump "No Itineraries Found" into the itinerary list box.
+
+I have fixed all known bugs that I was able to find.
+
+I did not implement anything extra.
