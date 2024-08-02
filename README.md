@@ -60,3 +60,14 @@ Potential improvements and features to add:
 - **Expand Booking Process** Allow users to select flights and reserve seats
 - **Database Integration:** Replace CSV files with a database for better scalability and performance.
 - **Enhanced UI:** Add more features to the UI, such as sorting and filtering options for flights.
+
+## Acknowledgments
+
+Portions of the initial codebase for this project were provided by Yufeng Wu. The provided code served as a foundation for the development of the airline simulator, and I built upon it to add new features, create algorithms, and enhance the user interface.
+
+## My Contributions
+
+While the initial codebase was provided, I have:
+- Developed the core flight search algorithm.
+- Made the UI features functional.
+- Conducted testing and optimization to ensure the application runs efficiently.
